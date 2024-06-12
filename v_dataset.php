@@ -44,7 +44,7 @@
                             <td><?=$d['SkinThickness'];?></td>
                             <td><?=$d['Insulin'];?></td>
                             <td><?=$d['BMI'];?></td>
-                            <td><?=$d['	DiabetesPedigreeFunction'];?></td>
+                            <td><?=$d['DiabetesPedigreeFunction'];?></td>
                             <td><?=$d['Age'];?></td>
                             <td><?=$d['Outcome'];?></td>
 
